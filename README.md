@@ -3,7 +3,7 @@
 **(这里不需要自己另外添加环境，标准的python环境即可)**
 
 **博客同款教程：**  
-https://blog.csdn.net/caip12999203000/article/details/128664669?csdn_share_tail=%7B%22type%22%3A%22blog%22%2C%22rType%22%3A%22article%22%2C%22rId%22%3A%22128664669%22%2C%22source%22%3A%22caip12999203000%22%7D
+https://blog.csdn.net/caip12999203000/article/details/128664669?spm=1001.2014.3001.5502
 
 
 **主要功能：** 可以根据单个md文件地址或者md目录文件的地址，批量提取md里面图片的地址，并且把md图片对应的地址修改成提取图片对应的位置。
